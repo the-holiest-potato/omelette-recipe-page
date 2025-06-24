@@ -9,7 +9,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ![site ](image.png)
 
 ## Links
-- Live Site URL: [Add live site URL here](https://github.com/the-holiest-potato/omelette-recipe-page.git)
+- Live Site URL: [Add live site URL here](https://the-holiest-potato.github.io/omelette-recipe-page/)
 
 ## My process
 So this is my second challenge submission for Frontend Mentor, an excellent site for project practice.
